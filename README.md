@@ -1,8 +1,7 @@
-## Hi there 👋
-
+<h1 align="center">Hi there, I'm <a href="https://github.com/Samohin13)/" target="_blank">Sergei Samohin</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <!--
 **Samohin13/Samohin13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- -->
